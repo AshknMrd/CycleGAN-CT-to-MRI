@@ -93,7 +93,5 @@ The inference pipeline configures dataset paths and runtime parameters and runs 
   <img src="imgs/photo2vangogh_samples.png" width="800">
 </p>
 
----
 © Ashkan M., NTNU  
 Released under the MIT License
----
